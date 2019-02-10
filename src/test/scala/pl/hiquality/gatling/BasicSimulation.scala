@@ -2,7 +2,6 @@ package pl.hiquality.gatling
 
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
-import io.gatling.core.scenario.Simulation
 
 import scala.concurrent.duration._
 
